@@ -1,4 +1,6 @@
-package com.snow.model;
+package com.snow.modules.users.model;
+
+import com.snow.modules.blogs.model.SBlogEntity;
 
 import javax.persistence.*;
 import java.io.Serializable;

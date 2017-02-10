@@ -1,7 +1,7 @@
-package com.snow.controller;
+package com.snow.modules.blogs.controller;
 
-import com.snow.model.SBlogEntity;
-import com.snow.repository.BlogRepository;
+import com.snow.modules.blogs.model.SBlogEntity;
+import com.snow.modules.blogs.repository.BlogRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

@@ -1,7 +1,7 @@
-package com.snow.controller;
+package com.snow.modules.users.controller;
 
-import com.snow.model.SUserEntity;
-import com.snow.repository.UserRepository;
+import com.snow.modules.users.model.SUserEntity;
+import com.snow.modules.users.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

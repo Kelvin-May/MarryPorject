@@ -1,4 +1,6 @@
-package com.snow.model;
+package com.snow.modules.blogs.model;
+
+import com.snow.modules.users.model.SUserEntity;
 
 import javax.persistence.*;
 import java.sql.Timestamp;

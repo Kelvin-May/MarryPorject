@@ -1,6 +1,6 @@
-package com.snow.repository;
+package com.snow.modules.blogs.repository;
 
-import com.snow.model.SBlogEntity;
+import com.snow.modules.blogs.model.SBlogEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
-package com.snow.repository;
+package com.snow.modules.users.repository;
 
-import com.snow.model.SUserEntity;
+import com.snow.modules.users.model.SUserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
